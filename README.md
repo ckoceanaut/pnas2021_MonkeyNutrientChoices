@@ -3,7 +3,7 @@ This dataset includes original choice data (N=61,655) collected from three rhesu
 
 ## Data description
 
-Three rhesus macaques (numbered 77, 80, 81, respectively) made choices between flavor-matched (peach or blackcurrant flavor) liquids with 2 x 2 fat and sugar levels (LFLS: low-fat low-sugar; HFLS: high-fat low-sugar; LFHS: low-fat high-sugar; HFHS: high-fat high-sugar). Pairwise comparisons between these four liquid types generated 6 combinatorial session types as follows :
+Three rhesus macaques (numbered 77, 80, 81, respectively) made choices between flavor-matched (peach or blackcurrant flavor) liquids with 2 x 2 fat and sugar levels (**LFLS**: low-fat low-sugar; **HFLS**: high-fat low-sugar; **LFHS**: low-fat high-sugar; **HFHS**: high-fat high-sugar). Pairwise comparisons between these four liquid types generated 6 combinatorial session types as follows :
   - Type 1: LFLS v.s. LFHS
   - Type 2: HFLS v.s. HFHS
   - Type 3: LFLS v.s. HFLS
