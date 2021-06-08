@@ -19,7 +19,7 @@ All data were generated and processed in Matlab 2017 unless otherwise specified.
 This table includes information of all testing sessions from three monkeys:
 - **Animal**: animal identity - 77, 80, or 81
 - **Session**: chronological session numbers for each animal
-- **Type**: type 1-6, indicating combinatorial comparions between the four liquid types (see data description)
+- **Type**: session type 1-6, indicating combinatorial comparions between the four liquid types (see data description)
 - **nTrial**: completed trial numbers in each testing session
 - **Flavour**: juice flavor (_Peach_ or _Ribena_ [British blackcurrant juice]) for both options
 - **CS1**: juice type 1
