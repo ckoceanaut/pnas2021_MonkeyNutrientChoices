@@ -1,5 +1,5 @@
 ## Introduction
-This dataset includes original choice data (N=61,655) collected from three rhesus monkeys, published in PNAS 2021, titled "Preferences for nutrients and sensory food qualities identify biological sources of economic values in monkeys" (Huang et al. PNAS 2021).
+This dataset includes original choice data (N=61,655) collected from three rhesus monkeys, published in PNAS 2021, titled "**Preferences for nutrients and sensory food qualities identify biological sources of economic values in monkeys**" (Huang et al. PNAS 2021).
 
 ## Data description
 
