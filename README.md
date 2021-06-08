@@ -28,7 +28,7 @@ This table includes information of all testing sessions from three monkeys:
 
 ### Choice data (dataTbl.mat)
 
-This table provides complete trial-by-trial information of monkey choices from all three monkeys:
+This table provides complete trial-by-trial information of choices from all three monkeys:
 - **Animal**: animal identity, 70, 80 or 81
 - **Session**: chronological session numbers for each animal
 - **Trial**: chronological trial numbering in each testing session
