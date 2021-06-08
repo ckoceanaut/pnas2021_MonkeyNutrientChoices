@@ -1,9 +1,9 @@
 ## Introduction
-This dataset includes original choice data (N=61,655) collected from three rhesus monkeys, published in PNAS 2021, titled "**Preferences for nutrients and sensory food qualities identify biological sources of economic values in monkeys**" (Huang et al. PNAS 2021).
+This dataset includes original choice data (N=61,655) collected from three rhesus monkeys published in "**Preferences for nutrients and sensory food qualities identify biological sources of economic values in monkeys**" (2021), _Proceedings of the National Academy of Sciences_ (Huang et al. PNAS 2021).
 
 ## Data description
 
-Three rhesus macaques (numbered 77, 80, 81, respectively) made choices between flavor-matched (peach or blackcurrant flavor) liquids with 2 x 2 fat and sugar levels. Pairwise comparisons between these four liquid types generated 6 combinatorial session types as follows :
+Three rhesus macaques (numbered 77, 80, 81, respectively) made choices between flavor-matched (peach or blackcurrant flavor) liquids with 2 x 2 fat and sugar levels (LFLS: low-fat low-sugar; HFLS: high-fat low-sugar; LFHS: low-fat high-sugar; HFHS: high-fat high-sugar). Pairwise comparisons between these four liquid types generated 6 combinatorial session types as follows :
   - Type 1: LFLS v.s. LFHS
   - Type 2: HFLS v.s. HFHS
   - Type 3: LFLS v.s. HFLS
