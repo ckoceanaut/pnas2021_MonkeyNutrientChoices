@@ -51,5 +51,5 @@ Conducting this research project and collecting this dataset required years of e
 https://github.com/ckoceanaut/pnas2021_MonkeyNutrientChoices
 
 ## Further information
-In case of any questions or requests for further detials of the data, please feel free to contact the authors.
+In case of any questions or requests for further detials of the data, please feel free to contact the authors,
 Fei-Yang Huang (ckoceanaut@gmail.com) and Fabian Grabenhorst (fabian.grabenhorst@gmail.com)
