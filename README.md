@@ -49,7 +49,3 @@ This table provides complete trial-by-trial information of monkey choices from a
 Conducting this research project and collecting this dataset required years of effort. It is our lab policy that any preprint or peer-reviewed publication using these data should normally list as authors the people who collected the data (Fei-Yang Huang, Fabian Grabenhorst), and the principal investigator under whose responsibility the dataset has been collected (Fabian Grabenhorst). Therefore, before preparing publications using these data, please contact the principal investigator (fabian.grabenhorst@gmail.com). In addition, please cite the publication given above (Huang et al., 2021, PNAS) and also cite the data set using the following link:
 
 https://github.com/ckoceanaut/pnas2021_MonkeyNutrientChoices
-
-## Further information
-In case of any questions or requests for further detials of the data, please feel free to contact the authors,
-Fei-Yang Huang (ckoceanaut@gmail.com) and Fabian Grabenhorst (fabian.grabenhorst@gmail.com)
