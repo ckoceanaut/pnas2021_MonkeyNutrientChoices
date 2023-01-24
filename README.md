@@ -15,7 +15,7 @@ The session information and choice data were provided in ***SessInfo.mat*** and 
 For the detailed task design, please refer to the original paper and its method section.
 All data were generated and processed in Matlab 2017 unless otherwise specified.
 
-### Session information (SessInfo.mat)
+### Session information (SessInfo.mat / SessInfo.csv)
 This table includes information of all testing sessions from three monkeys:
 - **Animal**: animal identity - 77, 80, or 81
 - **Session**: chronological session numbers for each animal
@@ -26,7 +26,7 @@ This table includes information of all testing sessions from three monkeys:
 - **CS2**: juice type 2, fixed within each session, but pseudorandom across sessions
 - **Date**: date of data collection (dd-mm-yyyy)
 
-### Choice data (dataTbl.mat)
+### Choice data (dataTbl.mat / dataTbl.csv)
 
 This table provides complete trial-by-trial information of choices from all three monkeys:
 - **Animal**: animal identity, 70, 80 or 81
